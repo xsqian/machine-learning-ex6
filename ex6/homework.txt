@@ -1,0 +1,24 @@
+PWM2GWiuY2bd3QyQ
+
+/usr/local/octave/3.8.0/bin/octave-3.8.0
+PS1('>>')
+
+
+
+>>datestr(clock())
+
+
+== 
+==                                   Part Name |     Score | Feedback
+==                                   --------- |     ----- | --------
+==                             Gaussian Kernel |  25 /  25 | Nice work!
+==         Parameters (C, sigma) for Dataset 3 |  25 /  25 | Nice work!
+==                         Email Preprocessing |  25 /  25 | Nice work!
+==                    Email Feature Extraction |  25 /  25 | Nice work!
+==                                   --------------------------------
+==                                             | 100 / 100 | 
+== 
+>>datestr(clock())
+ans = 20-Feb-2019 22:50:23
+>>
+
